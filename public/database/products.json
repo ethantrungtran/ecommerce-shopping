@@ -1,0 +1,104 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Quần jean", 
+			"category": "jean",
+			"image": "https://cf.shopee.vn/file/e7e116877e184d6f20b149de4e33a3fa",
+			"price": 57.09,
+			"description": "Quần jean dành cho nam",
+			"rate": 4
+		},
+		{
+			"id": 10,
+			"name": "Quần jean ống rộng", 
+			"category": "jean",
+			"image": "https://cf.shopee.vn/file/cb94644a79ef56b3f03dd4811c5a0965",
+			"price": 90.09,
+			"description": "Quần jean ống rộng cho nam",
+			"rate": 2
+		},
+		{
+			"id": 2,
+			"name": "Quần đùi", 
+			"category": "short",
+			"image": "https://cf.shopee.vn/file/280ed9034092d581a98176e3eab588c2",
+			"price": 25.12,
+			"description": "Quần đùi dành cho nam",
+			"rate": 4.7
+		},
+		{
+			"id": 11,
+			"name": "Quần đùi thể thao", 
+			"category": "short",
+			"image": "https://vn-test-11.slatic.net/p/b9df4f13b7703c0ea6cd3fd2170fce28.jpg_400x400q90.jpg_.webp",
+			"price": 40.12,
+			"description": "Quần đùi dành cho nam",
+			"rate": 2.9
+		},
+		{
+			"id": 3,
+			"name": "Váy", 
+			"category": "dress",
+			"image": "https://vn-test-11.slatic.net/p/2ffcbf54cf85fe6e165fc1cad54358e3.jpg_400x400q90.jpg_.webp",
+			"price": 67.22,
+			"description": "Váy cho nữ",
+			"rate": 4.5
+		},
+		{
+			"id": 12,
+			"name": "Đầm", 
+			"category": "dress",
+			"image": "https://vn-test-11.slatic.net/p/35bcd9ed51810f39e02dd026660dda0c.jpg_400x400q90.jpg_.webp",
+			"price": 100.22,
+			"description": "Váy cho nữ",
+			"rate": 5
+		},
+		{
+			"id": 4,
+			"name": "Quần tây", 
+			"category": "tay",
+			"image": "https://vn-test-11.slatic.net/p/8f402787d95b5f1a87253c8c2e3a4037.jpg_400x400q90.jpg_.webp",
+			"price": 54.40,
+			"description": "Quần tây cho nữ",
+			"rate": 4
+		},
+		{
+			"id": 5,
+			"name": "Áo sơ mi", 
+			"category": "shirt",
+			"image": "https://vn-test-11.slatic.net/p/94d5e5fc80c4a45e17d62d7c70122fe4.jpg_400x400q90.jpg_.webp",
+			"price": 40.23,
+			"description": "Áo sơ mi cho nam",
+			"rate": 5
+		},
+		{
+			"id": 6,
+			"name": "Vest", 
+			"category": "vest",
+			"image": "https://vn-test-11.slatic.net/p/602133b8dbd6298080947a2c1d21fb8c.jpg_400x400q90.jpg_.webp",
+			"price": 120.02,
+			"description": "Áo vest cho nam",
+			"rate": 4.1
+		},
+		{
+			"id": 7,
+			"name": "Bikini", 
+			"category": "bikini",
+			"image": "https://my-live.slatic.net/p/19e1946f74be6514fb5db5f00ae571f0.jpg_400x400q90.jpg_.webp",
+			"price": 60.01,
+			"description": "Bikini đi tắm biển",
+			"rate": 3.5
+		},
+		{
+			"id": 8,
+			"name": "Áo khoác", 
+			"category": "coat",
+			"image": "https://vn-test-11.slatic.net/p/2249b4fc87d7ec4e0e91f63193b1b7d2.jpg_400x400q90.jpg_.webp",
+			"price": 98.01,
+			"description": "Áo khoác nữ",
+			"rate": 3
+		}
+		
+	]
+}
